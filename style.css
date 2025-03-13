@@ -89,3 +89,8 @@ a {
 .quote {
     max-width: 400px;
 }
+
+.footer {
+    padding: 32px 48px;
+    text-align: center;
+}
