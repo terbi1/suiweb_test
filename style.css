@@ -90,6 +90,27 @@ a {
     max-width: 400px;
 }
 
+.call-section {
+    padding: 48px 96px;
+}
+
+.call-to-action {
+    margin: auto;
+    max-width: 800px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    padding: 16px 32px;
+    border-radius: 10px;
+    color: white;
+    
+}
+
+.call-to-action button {
+    border: 2px solid white;
+    /* border-radius: 10px; */
+}
+
 .footer {
     padding: 32px 48px;
     text-align: center;
