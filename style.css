@@ -19,6 +19,11 @@ body {
     padding: 16px 48px 48px 48px;
 }
 
+.logo {
+    width: 35px;
+    height: auto;
+}
+
 .hero {
     display: flex;
     justify-content: center;
